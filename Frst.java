@@ -16,5 +16,6 @@ public class Frst {
 
         System.out.println(tr1);
         System.out.println("Hello World");
+        System.out.println("Hello Oishee");
     }
 }
